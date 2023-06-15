@@ -140,11 +140,13 @@
 .recipes__videos {
   display: flex;
   margin: 0 auto;
+  gap: 40px;
 }
 
 .recipes__iframe {
   display: flex;
-  gap: 40px;
+  flex-direction: column;
+
   border: 0;
 }
 
