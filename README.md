@@ -13,4 +13,5 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Maybe Im thinking about how to make a video play when i hover over it and have it play automatically. I think that would cool and also to understand everything much more clearly.
+
