@@ -201,6 +201,11 @@
   margin: 0;
 }
 
+.form__label_type_checkbox {
+  display: flex;
+  justify-content: center;
+}
+
 .form__fieldset {
   display: flex;
   flex-direction: column;
@@ -247,6 +252,7 @@
   background-image: url("/images/check.svg");
   width: 20px;
   height: 20px;
+  margin: 0 12px 0 0;
 }
 
 .form__terms {
